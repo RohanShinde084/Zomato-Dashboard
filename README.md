@@ -1,4 +1,5 @@
 🍽️ Zomato Restaurant Analysis Dashboard
+
 📌 Project Overview
 
 The Zomato Restaurant Analysis Dashboard is an interactive data visualization project developed using Power BI. It provides insights into restaurant distribution, customer voting patterns, cuisine popularity, online ordering trends, and average dining costs. The dashboard helps users analyze restaurant data efficiently and make data-driven decisions.
